@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Zen+Dots&display=swap');
-
+body{
+    background-color: black;
+}
 .aboutpage{
     background-image:  url(donebackground.jpg) ;
     background-size: 2000px;
@@ -8,7 +10,6 @@
     background-image: url(donebackground.jpg);
 }
 .navbar{
-    background-color: black;
     font-size: medium;
     position: absolute;
     font-family: "Comfortaa", sans-serif;
