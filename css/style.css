@@ -83,7 +83,7 @@ margin-left: 8rem;
 #aboutus{
     position: absolute;
     /* margin-left: 500px; */
-    font-family: zen dots;
+    font-family: "Zen Dots", sans-serif;
     /* margin-left: 42%; */
     margin-top: 90px; 
     font-size: 60px;
@@ -105,7 +105,7 @@ margin-left: 8rem;
 #get{
     position: absolute;
     margin-top: 40%;
-    font-family:zen dots ;
+    font-family: "Zen Dots", sans-serif;
     font-size: 50px;
     color: greenyellow;
 }
